@@ -1,0 +1,52 @@
+body{
+	background-color: purple;
+	padding-left: 150px;
+}
+
+h1{
+	color: yellow;
+	text-decoration: underline overline dotted yellow;
+}
+h2{
+	color: yellow;
+	text-decoration: underline overline wavy yellow;
+}
+
+.greenHead{  /*this is a class, and must be applied directky in the HTML tag*/
+	color: fuchsia;
+	
+}
+
+p{
+	color: yellow;
+	font-size: 18px;
+	text-shadow: 2px 2px 5px black;
+}
+a{
+	color: yellow;
+	text-shadow: 7px 7px 7px blue;
+}
+ol{
+	list-style-type: upper-roman;
+	color: yellow;
+	font-size: 18px;
+	text-shadow: 2px 2px 5px black;
+	
+}
+ul{
+	list-style-type: square;
+	color: yellow;
+	font-size: 18px;
+	text-shadow: 2px 2px 5px black;
+	
+}
+li(
+	color: yellow;
+	font-size: 18px;
+	text-shadow: 2px 2px 5px black;
+)
+a (
+	color: yellow;
+	font-size: 18px;
+	text-shadow: 7px 7px 7px blue;
+)
